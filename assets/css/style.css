@@ -1871,6 +1871,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     opacity: 0;
   }
 
+  .skill-text {
+    color: rgb(234, 199, 199);
+  }
+
   .social-list { justify-content: center; }
 
 
